@@ -1,7 +1,3 @@
 #!/bin/bash
-<<<<<<< HEAD
  echo "ALX" 
-ALX School iso cool!
-=======
-ALX School
->>>>>>> update_script
+ALX School is so cool!
